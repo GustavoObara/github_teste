@@ -1,10 +1,10 @@
 
-Plano de Teste para [Nome do Projeto]
+Plano de Teste para o GitHub
 =====================================
 
 1. Introdução:
 --------------
-Este Plano de Teste descreve a abordagem, os procedimentos e os recursos a serem utilizados no teste do software [Nome do Software]. O objetivo é garantir a qualidade e a funcionalidade do sistema de acordo com os requisitos especificados.
+Este Plano de Teste descreve a abordagem, os procedimentos e os recursos a serem utilizados no teste do software GitHub. O objetivo é garantir a qualidade e a funcionalidade do sistema de acordo com os requisitos especificados.
 
 2. Objetivos do Teste:
 -----------------------
@@ -61,6 +61,6 @@ Este Plano de Teste descreve a abordagem, os procedimentos e os recursos a serem
 -------------------------
 - Critérios para Conclusão dos Testes: [Descrição dos critérios que indicam o término dos testes]
 
-Assinatura do Responsável: [Nome do Responsável]
+Assinatura do Responsável: Luiz Gustavo Obara
 Data: [Data da Assinatura]
 
